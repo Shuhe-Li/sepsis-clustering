@@ -19,7 +19,7 @@ A total of 23,374 septic patients were included in the study. Three clusters wer
 
 13,927 patients were labelled as Cluster 1, followed by Cluster 2 (7,047) and Cluster 0 (2,400). Patients in Cluster 0 were the youngest (60 years), but they demonstrated the most severe signs of inflammation (WBC: 21.18) and organ dysfunction, including liver (ALT: 756.56), kidney (creatinine: 3.52), and circulatory dysfunction (lactate: 6.48). Cluster 1 showed the lowest severity score (SOFA score: 3.2) and shortest length of stay in the ICU (5.31 days). Cluster 2 was the eldest (75.5 years), although the severity of organ dysfunction was less critical compared to Cluster 0. Cluster 1 demonstrated the best survival outcome, whereas Cluster 0 manifested the worst 28-day survival. 
 
-Figure 1. Results of K-means clustering. (A) The cluster plot with two-dimensional PCA components (K=3); (B) The Elbow method using inertia; (C) Silhouette analysis for three clusters; (D) 28-day Kaplan-Meier survival plot of three clusters.
+#### Figure 1. Results of K-means clustering. (A) The cluster plot with two-dimensional PCA components (K=3); (B) The Elbow method using inertia; (C) Silhouette analysis for three clusters; (D) 28-day Kaplan-Meier survival plot of three clusters.
 ![image](https://github.com/Shuhe-Li/sepsis-clustering/assets/39095779/ea0dcc83-47a0-46a5-851a-0c2b3b512b6f)
 
 
