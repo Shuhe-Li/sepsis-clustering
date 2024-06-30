@@ -1,7 +1,7 @@
 # Identifying Sepsis Phenotypes With K-Means Clustering Using A Large Public Database
 ECMM445 (Learning from Data) Cousework Project created by Shuhe Li
 
-## Backgroud
+## Background
 Sepsis is a life-threatening organ dysfunction led by a dysregulated host response to infection (Singer, Deutschman and Seymour, 2016). Sepsis represents a leading cause of death in intensive care units (ICU), as there is an annual rate of 48.9 million cases of sepsis worldwide, of which 11.1 million patients died, comprising 19.7% of all deaths globally (Rudd et al., 2020). 
 
 Despite the advanced life-support techniques in the ICU, the lack of definite therapies has remained a vital issue because of the heterogeneity of septic patients. The fact that sepsis comprises a multidimensional array of infectious etiologies and clinical features has impeded the effectiveness of guideline-driven management, as guidelines only reflect the needs of the “average” patient (Liu et al., 2020). However, for patients showing certain phenotypes, those treatments may fail and result in undesirable outcomes. Hence, it is crucial to identify phenotypes of sepsis so that targeted treatment strategies can be established towards corresponding patients to improve overall survival.
@@ -26,7 +26,7 @@ A total of 23,374 septic patients were included in the study. Three clusters wer
 ## Conclusion
 Three phenotypes were identified among 23,374 septic patients based on 36 clinical variables within the first 24 hours after ICU admission, and these phenotypes demonstrated distinct clinical characteristics and outcomes.
 
-## Reference
+## References
 Johnson, A.E.W. et al. (2023) ‘MIMIC-IV, a freely accessible electronic health record dataset’, Scientific Data, 10(1). doi:https:http://sci-hub.se/10.1038/s41597-022-01899-x.
 
 Liu, R. et al. (2020) ‘Spectral clustering of risk score trajectories stratifies sepsis patients by clinical outcome and interventions received’, eLife, 9, p. e58142. doi:https:http://sci-hub.se/10.7554/elife.58142.
